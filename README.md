@@ -27,7 +27,7 @@ Make sure you have **Python 3.6+** installed.
 
 Clone the repo:
 ```bash
-git clone https://github.com/your-username/file-organizer.git
+git clone https://github.com/tejasrana1/file-organizer.git
 cd file-organizer
 ```
 
