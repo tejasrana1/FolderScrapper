@@ -29,7 +29,7 @@ Clone the repo:
 ```bash
 git clone https://github.com/your-username/file-organizer.git
 cd file-organizer
-
+```bash
 
 ---
 
@@ -46,5 +46,5 @@ cd file-organizer
 
 To see all available arguments and usage:
 
-```bash
+
 python organizer.py --help
